@@ -1,1 +1,1 @@
-# Simple-Akinator-Game
+# Simple-Akinator-Api
